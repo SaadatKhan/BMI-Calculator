@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  font_awesome_flutter: ^9.0.0
+
 
 dev_dependencies:
   flutter_test:
@@ -18,3 +20,11 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  fonts:
+    - family:          OpenSans
+      fonts:
+        - asset:        fonts/OpenSans-Regular.ttf
+
+
+
