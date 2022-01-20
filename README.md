@@ -1,8 +1,5 @@
-# BMI Calculator
+# Personal Projects
 
-### This project is learnt from the LondonAppBrewery. 
+### This repository contains projects that I did for my passion of learning.  
 
-The project takes user data to calculate BMI of a person.The project is subject to slight modifications from the video turorial I followed in their course.
-
-To run :
-* Clone Repository the project and paste the link while running a project from Version Control using Android Studio/ VS Code
+This repository is prone to updates as I do more projects during my spare time.
