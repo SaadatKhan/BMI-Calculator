@@ -1,6 +1,8 @@
-# Personal Projects
+# Chatbot
 
-### This repository contains projects that I did for my passion of learning.  
+### This repository contains a chatbot made using the Cornell Movie-Dialogs Corpus.
 
-This repository is prone to updates as I do more projects during my spare time.
+Use Tensorflow 1.13 for running. 
+The link to the data used: https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+
 
